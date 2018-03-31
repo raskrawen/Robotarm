@@ -34,3 +34,5 @@ Server startes fra windows start node.js command prompt. Naviger til RKWnode map
 Node server.js
 I browser: Localhost:3000
 Arduino skal have firmata.ino kode opladed for at virke med Johnny five
+
+Servos connected to Arduino pin 9,10,11 and 13.
