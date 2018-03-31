@@ -36,3 +36,4 @@ I browser: Localhost:3000
 Arduino skal have firmata.ino kode opladed for at virke med Johnny five
 
 Servos connected to Arduino pin 9,10,11 and 13.
+MeArm robot arm: http://www.instructables.com/id/Pocket-Sized-Robot-Arm-meArm-V04/
